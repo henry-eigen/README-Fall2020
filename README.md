@@ -24,3 +24,7 @@ For each bug, feature, code change, etc. you should have an Issue in your GitHub
 
 To make it easier for the TAs to correctly attribute work done we recommend that you assign yourself or teammates to the issues they're working on.
 
+## Commits
+
+When you make a commit you should include an issue number (e.x. #1 ) to show what issue that commit is working towards.
+
