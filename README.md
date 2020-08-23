@@ -6,13 +6,17 @@ How to get started:
 
 ### Don't have a team?
 
-Just open an issue mentioning your netid and add the `looking-for-team` label. You can title it like "\<My Name\> is looking for a team" or anything similar.
+Just open an issue **mentioning your netid** and add the `looking-for-team` label. You can title it like "\<My Name\> is looking for a team" or anything similar.
+
+You need to mention your netid so that the TAs can link your Canvas scores to your GitHub contributions.
 
 ### Already have a team in mind?
 
 One person should create an issue for your team, you can name your team but please keep it super SFW since it'll be the name of your GitHub repo as well. If you don't have a team name the TAs can make one for you.
 
 Teams should be **3-5 people**, if you need another member for your team, please add the `looking-for-teammate` label and the TAs will do their best to find someone to join you.
+
+Be sure to have everyone's netid and GitHub username in the issue, either as comments or mentioning the users in the issue.
 
 # Contribution Expectations
 
